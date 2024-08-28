@@ -8,7 +8,7 @@
         "telegram-music-bot",
         "telegram-video-bot"
     ],
-    "repository": "https://t.me/i_m_fighter",
+    "repository": "https://t.me/PROFESSOR_77XX",
     "stack": "container",
     "env": {
         "API_ID": {
@@ -23,23 +23,23 @@
         },
         "BOT_TOKEN": {
             "description": "Enter your bot token here",
-            "value": "6261790350:AAG6k0OS71LudXDyrpR35VUhHB10P3M5UGU",
+            "value": "6712796342:AAHKHx3KdsBahHXCpinlYggtCIs-FJcQSJ8",
             "required": true
                     },
         "SUDO_USERS": {
             "description": "Fill there your I'd go to @MissRose_bot pm and type /id",
             "required": true,
-            "value": "6841658149"
+            "value": "7463345743"
         },
           "OWNER_ID": {
             "description": "Fill there your I'd go to @MissRose_bot pm and type /id",
             "required": true,
-            "value": "6841658149"
+            "value": "7463345743"
               },
           "OWNER_USERNAME": {
             "description": "Fill there your I'd go to @MissRose_bot pm and type /id",
             "required": true,
-            "value": "oye_mindgamer"
+            "value": "PROFESSOR_77X"
         },
         "STRING_SESSION": {
             "description": "Enter your pyrogram v2 string session here.",
@@ -53,7 +53,7 @@
         },
         "LOG_GROUP_ID": {
             "description": "Enter your private log group id here.",
-            "value": "-1002120898858",
+            "value": "-1002134214481",
             "required": true
         }
     },
