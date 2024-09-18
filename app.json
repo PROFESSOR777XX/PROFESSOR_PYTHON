@@ -8,7 +8,7 @@
         "telegram-music-bot",
         "telegram-video-bot"
     ],
-    "repository": "https://t.me/PROFESSOR_77XX",
+    "repository": "https://t.me/PROFESSOR777XX",
     "stack": "container",
     "env": {
         "API_ID": {
@@ -23,18 +23,18 @@
         },
         "BOT_TOKEN": {
             "description": "Enter your bot token here",
-            "value": "6712796342:AAHKHx3KdsBahHXCpinlYggtCIs-FJcQSJ8",
+            "value": "7419283365:AAFyUXdzlJQ7gPCAautPNbyokhE39rKDrx4",
             "required": true
                     },
         "SUDO_USERS": {
             "description": "Fill there your I'd go to @MissRose_bot pm and type /id",
             "required": true,
-            "value": "7463345743"
+            "value": "5812407636"
         },
           "OWNER_ID": {
             "description": "Fill there your I'd go to @MissRose_bot pm and type /id",
             "required": true,
-            "value": "7463345743"
+            "value": "5812407636"
               },
           "OWNER_USERNAME": {
             "description": "Fill there your I'd go to @MissRose_bot pm and type /id",
