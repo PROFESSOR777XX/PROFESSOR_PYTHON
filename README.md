@@ -11,7 +11,7 @@
 > The easy way to host this bot, deploy to Heroku 
 <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Fakecheater77x/PROFESSOR_PYTHON)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/PROFESSOR777XX/PROFESSOR_PYTHON)
 
 ## 🖇 Generating Pyrogram String Session
 
