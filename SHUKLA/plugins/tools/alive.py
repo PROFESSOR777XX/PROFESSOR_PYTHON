@@ -39,7 +39,7 @@ async def alive(client: Client, message: Message):
     uptime = await _human_time_duration(int(uptime_sec))
     await message.delete()
     await r.edit(
-        f"︎ [ 😻 #𝙸_𝙼_4𝚂𝚃_𝙵𝚄𝙲𝙺𝙴𝚁 👻 ](https://t.me/II_4ST_PROFESSOR_READY_FOR_FUCKING_II) ︎︎︎\n\n"
+        f"︎ [ 😻 #𝙸_𝙼_𝙵4𝙴_𝙵𝚈𝚃𝙴𝚁 👻 ](https://t.me/II_4ST_PROFESSOR_READY_FOR_FUCKING_II) ︎︎︎\n\n"
         f"💌𝐕ᴇʀsɪᴏɴ ⁂1.0\n"
         f"💥𝐏ɪɴɢ ⁂ {ping * 1000:.3f}ᴍs\n"
         f"💭𝐔ᴘᴛɪᴍᴇ ⁂ {uptime}\n"
@@ -58,7 +58,7 @@ async def ping(client: Client, message: Message):
     uptime = await _human_time_duration(int(uptime_sec))
     await message.delete()
     await r.edit(
-        f" [ 😻 #𝚄𝚁_𝙳𝙰𝙳𝙳𝚈_4𝚂𝚃_𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙾𝚁_𝙷𝙴𝚁𝙴 👻 ](https://t.me/II_4ST_PROFESSOR_READY_FOR_FUCKING_II) \n\n"
+        f" [ 😻 #𝚄𝚁_𝙳𝙰𝙳𝙳𝚈_𝙵4𝙴_𝙰𝚄𝚃𝙸𝚂𝚃𝙸𝙲_𝙷𝙴𝚁𝙴 👻 ](https://t.me/II_4ST_PROFESSOR_READY_FOR_FUCKING_II) \n\n"
         f"🌐➍ˢᵀ 𝐏𝙸𝙽𝙶 ❄  ⁂ {ping * 1000:.3f}ᴍs\n"
         f"‌‌👑🇸𝐔𝐏𝐄𝐑 ‌🇴𝐖𝐍𝐄𝐑 💕  ⁂ {client.me.mention}\n"
         f"⚡🇹𝐈𝐌𝐄 🔥 ⁂ {uptime}\n"
